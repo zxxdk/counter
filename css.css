@@ -1,0 +1,28 @@
+.wrapper{
+    width:390px;
+    height:420px;
+    background-color:#7fffd4;
+    margin:auto;
+}
+.co{
+    width:350px;
+    height:350px;
+    background-color:#7fffd4;
+    text-align: center;
+}
+input{
+	margin-top:20px;
+	margin-left:15px;
+	width:352px;
+	height:40px;
+	background-color: white;
+
+}
+button{
+	margin-left:10px; 
+	width:80px;
+	height:40px;
+	font-size: 20px;
+	color:#ffffff;
+	background-color: #00ced1;
+}
